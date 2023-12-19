@@ -11,11 +11,11 @@ I'm a passionate **front-end web developer** with a love for coding and creating
  [![Telegram Badge](https://img.shields.io/badge/-%40BillalBenzazoua-blue?style=flat&logo=telegram)](https://t.me/BillalBenzazoua)
 
 
-- 🔭 I’m currently working on improving my proficiency in front-end technologies.
+<!-- - 🔭 I’m currently working on improving my proficiency in front-end technologies.
 - 🌱 I’m currently learning about new frameworks and exploring advanced JavaScript concepts.
 - 👯 I’m looking to collaborate on on open-source projects related to web development.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about front-end design principles, responsive web development, or my favorite coding projects.
+- 💬 Ask me about front-end design principles, responsive web development, or my favorite coding projects. -->
 
 ## Technologies
 
