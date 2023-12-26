@@ -7,7 +7,7 @@ I'm a passionate **front-end web developer** with a love for coding and creating
 :mailbox: **Reach me out!**
 
  [![Mail Badge](https://img.shields.io/badge/-billalben252-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:billalben252@gmail.com)
- [![Linkedin Badge](https://img.shields.io/badge/-BillalBenzazoua-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billal-benzazoua-554144195)
+ [![Linkedin Badge](https://img.shields.io/badge/-BillalBenzazoua-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billal-benzazoua/)
  [![Telegram Badge](https://img.shields.io/badge/-%40BillalBenzazoua-blue?style=flat&logo=telegram)](https://t.me/BillalBenzazoua)
 
 
