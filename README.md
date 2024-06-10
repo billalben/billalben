@@ -1,21 +1,15 @@
-## Hi I'm Billal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<!-- 🚀 Check out my New Portfolio [billalbenz.com](https://billalbenz.com) -->
+🚀 Check out my Portfolio [billalbenz.me](https://billalbenz.me)
 
 I'm a passionate **front-end web developer** with a love for coding and creating visually appealing, user-friendly websites.
 
 :mailbox: **Reach me out!**
 
- [![Mail Badge](https://img.shields.io/badge/-billalben252-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:billalben252@gmail.com)
+ [![Mail Badge](https://img.shields.io/badge/-contact@billalbenz.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:billalben252@gmail.com)
+ [![Mail Badge](https://img.shields.io/badge/-billalben252@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:billalben252@gmail.com)
  [![Linkedin Badge](https://img.shields.io/badge/-BillalBenzazoua-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billal-benzazoua/)
  [![Telegram Badge](https://img.shields.io/badge/-%40BillalBenzazoua-blue?style=flat&logo=telegram)](https://t.me/BillalBenzazoua)
-
-
-<!-- - 🔭 I’m currently working on improving my proficiency in front-end technologies.
-- 🌱 I’m currently learning about new frameworks and exploring advanced JavaScript concepts.
-- 👯 I’m looking to collaborate on on open-source projects related to web development.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about front-end design principles, responsive web development, or my favorite coding projects. -->
 
 ## Technologies
 
