@@ -8,8 +8,10 @@ I'm a passionate **Front-End Web Developer** with a love for coding and creating
 
 ###
 
+<h2 align="left">Contact</h2>
+
 <div align="left">
-  <a href="contact@billalbenz.me" target="_blank">
+  <a href="mailto:contact@billalbenz.me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/billal-benzazoua/" target="_blank">
