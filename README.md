@@ -4,7 +4,7 @@
 
 I'm a passionate **Front-End Web Developer** with a love for coding and creating visually appealing, user-friendly websites.
 
-🚀 Check out my Portfolio [billalbenz.me](https://billalbenz.com).
+🚀 Check out my Portfolio [billalbenz.com](https://billalbenz.com).
 
 ###
 
